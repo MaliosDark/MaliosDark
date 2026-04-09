@@ -7,10 +7,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaliosDark&show_icons=true&theme=dracula&locale=en" height="140" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaliosDark&layout=compact&theme=dracula" height="140" alt="Top languages" />
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaliosDark&theme=kanagawa-paper)](https://git.io/streak-stats)
 
 ###
 
