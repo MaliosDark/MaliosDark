@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I’m Andryu Schittone — “Malios Dark”</h2>
+<h2 align="left">Hi 👋! I’m Andryu Schittone, “Malios Dark”</h2>
 
 <p align="left">
   Based in Cardiff, UK, I’m a self-taught developer and creative technologist. I build AI-driven tools, craft full-stack web applications, and produce electronic music and digital art., I oversee innovative AI projects, security software, and multimedia experiences that blend technology with imagination.
