@@ -7,63 +7,12 @@
 
 ###
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MaliosDark&theme=kanagawa-paper)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MaliosDark&show_icons=true&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=MaliosDark&theme=github_dark)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MaliosDark&layout=compact&theme=github_dark)
+
 
 ###
-
-## 🌟 Achievements & Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/AI%20Researcher-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="AI Researcher" height="28" />
-  <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" alt="Open Source Contributor" height="28" />
-  <img src="https://img.shields.io/badge/Digital%20Artist-Suno-FFB400?style=for-the-badge&logo=suno&logoColor=white" alt="Digital Artist" height="28" />
-
-  <img src="https://img.shields.io/badge/Music%20Producer-Spotify-1DB954?style=for-the-badge&logo=spotify" alt="Music Producer" height="28" />
-
-  <img src="https://img.shields.io/badge/Chatbot%20Architect-WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="Chatbot Architect" height="28" />
-
-  <img src="https://img.shields.io/badge/Text--to--Image-Genelia-9C27B0?style=for-the-badge&logo=stable_diffusion&logoColor=white" alt="Text-to-Image" height="28" />
-  <img src="https://img.shields.io/badge/Pwnagotchi-Plugin-CA4245?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Pwnagotchi Plugin" height="28" />
-  <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Backend" height="28" />
-  <img src="https://img.shields.io/badge/ClamAV-Scanner-4CAF50?style=for-the-badge&logo=clamav&logoColor=white" alt="ClamAV Scanner" height="28" />
-  <img src="https://img.shields.io/badge/Linux-Admin-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Admin" height="28" />
-  <img src="https://img.shields.io/badge/NGINX-Expert-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX Expert" height="28" />
-  <img src="https://img.shields.io/badge/Firewall-Management-FF3D00?style=for-the-badge&logo=iptables&logoColor=white" alt="Firewall Management" height="28" />
-  <img src="https://img.shields.io/badge/Node.js-API-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js API" height="28" />
-  <img src="https://img.shields.io/badge/AI–Inference–Ollama-00A99D?style=for-the-badge" alt="Ollama" height="28" />
-  <img src="https://img.shields.io/badge/Networking–MikroTik-FF6D00?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" height="28" />
-  <img src="https://img.shields.io/badge/Firewall–pfSense-004A7F?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" height="28" />
-  <img src="https://img.shields.io/badge/CWP–Panel-00A8E1?style=for-the-badge" alt="CWP Panel" height="28" />
-  <img src="https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python" alt="Python Engineer" height="28" />
-  <img src="https://img.shields.io/badge/Systems-Rust-000000?style=for-the-badge&logo=rust" alt="Rust Enthusiast" height="28" />
-
-
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Frontend" height="28" />
-  <img src="https://img.shields.io/badge/Frontend-TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" height="28" />
-  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5" height="28" />
-  <img src="https://img.shields.io/badge/Styling-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3" height="28" />
-
-  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" height="28" />
-  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" alt="Kubernetes" height="28" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS" height="28" />
-  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud" alt="GCP" height="28" />
-
-  <img src="https://img.shields.io/badge/DB-MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB" height="28" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="PostgreSQL" height="28" />
-  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis" alt="Redis" height="28" />
-
-  <img src="https://img.shields.io/badge/API-GraphQL-E10098?style=for-the-badge&logo=graphql" alt="GraphQL" height="28" />
-  <img src="https://img.shields.io/badge/API-REST-269AB0?style=for-the-badge&logo=openapi" alt="REST" height="28" />
-  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions" alt="CI/CD" height="28" />
-  <img src="https://img.shields.io/badge/Observability-Prometheus-4169E1?style=for-the-badge&logo=prometheus" alt="Prometheus" height="28" />
-  <img src="https://img.shields.io/badge/Logging-Loki-000000?style=for-the-badge&logo=loki" alt="Loki" height="28" />
-  <img src="https://img.shields.io/badge/Data%20Science-Jupyter-F37626?style=for-the-badge&logo=jupyter" alt="Jupyter" height="28" />
-  <img src="https://img.shields.io/badge/VR/AR-Unity-000000?style=for-the-badge&logo=unity" alt="Unity" height="28" />
-</div>
-
----
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun animated GIF" />
 
 <p align="left">
   <strong>Technologies & Tools I work with:</strong>
@@ -139,6 +88,55 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
 </div>
 
+## 🌟 Achievements & Skills
+
+<div align="center">
+  <img src="https://img.shields.io/badge/AI%20Researcher-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="AI Researcher" height="28" />
+  <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" alt="Open Source Contributor" height="28" />
+  <img src="https://img.shields.io/badge/Digital%20Artist-Suno-FFB400?style=for-the-badge&logo=suno&logoColor=white" alt="Digital Artist" height="28" />
+
+  <img src="https://img.shields.io/badge/Music%20Producer-Spotify-1DB954?style=for-the-badge&logo=spotify" alt="Music Producer" height="28" />
+
+  <img src="https://img.shields.io/badge/Chatbot%20Architect-WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="Chatbot Architect" height="28" />
+
+  <img src="https://img.shields.io/badge/Text--to--Image-Genelia-9C27B0?style=for-the-badge&logo=stable_diffusion&logoColor=white" alt="Text-to-Image" height="28" />
+  <img src="https://img.shields.io/badge/Pwnagotchi-Plugin-CA4245?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Pwnagotchi Plugin" height="28" />
+  <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Backend" height="28" />
+  <img src="https://img.shields.io/badge/ClamAV-Scanner-4CAF50?style=for-the-badge&logo=clamav&logoColor=white" alt="ClamAV Scanner" height="28" />
+  <img src="https://img.shields.io/badge/Linux-Admin-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Admin" height="28" />
+  <img src="https://img.shields.io/badge/NGINX-Expert-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX Expert" height="28" />
+  <img src="https://img.shields.io/badge/Firewall-Management-FF3D00?style=for-the-badge&logo=iptables&logoColor=white" alt="Firewall Management" height="28" />
+  <img src="https://img.shields.io/badge/Node.js-API-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js API" height="28" />
+  <img src="https://img.shields.io/badge/AI–Inference–Ollama-00A99D?style=for-the-badge" alt="Ollama" height="28" />
+  <img src="https://img.shields.io/badge/Networking–MikroTik-FF6D00?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" height="28" />
+  <img src="https://img.shields.io/badge/Firewall–pfSense-004A7F?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" height="28" />
+  <img src="https://img.shields.io/badge/CWP–Panel-00A8E1?style=for-the-badge" alt="CWP Panel" height="28" />
+  <img src="https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python" alt="Python Engineer" height="28" />
+  <img src="https://img.shields.io/badge/Systems-Rust-000000?style=for-the-badge&logo=rust" alt="Rust Enthusiast" height="28" />
+
+
+  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Frontend" height="28" />
+  <img src="https://img.shields.io/badge/Frontend-TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" height="28" />
+  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5" height="28" />
+  <img src="https://img.shields.io/badge/Styling-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3" height="28" />
+
+  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" height="28" />
+  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" alt="Kubernetes" height="28" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS" height="28" />
+  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud" alt="GCP" height="28" />
+
+  <img src="https://img.shields.io/badge/DB-MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB" height="28" />
+  <img src="https://img.shields.io/badge/DB-PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="PostgreSQL" height="28" />
+  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis" alt="Redis" height="28" />
+
+  <img src="https://img.shields.io/badge/API-GraphQL-E10098?style=for-the-badge&logo=graphql" alt="GraphQL" height="28" />
+  <img src="https://img.shields.io/badge/API-REST-269AB0?style=for-the-badge&logo=openapi" alt="REST" height="28" />
+  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions" alt="CI/CD" height="28" />
+  <img src="https://img.shields.io/badge/Observability-Prometheus-4169E1?style=for-the-badge&logo=prometheus" alt="Prometheus" height="28" />
+  <img src="https://img.shields.io/badge/Logging-Loki-000000?style=for-the-badge&logo=loki" alt="Loki" height="28" />
+  <img src="https://img.shields.io/badge/Data%20Science-Jupyter-F37626?style=for-the-badge&logo=jupyter" alt="Jupyter" height="28" />
+  <img src="https://img.shields.io/badge/VR/AR-Unity-000000?style=for-the-badge&logo=unity" alt="Unity" height="28" />
+</div>
 
 ---
 
