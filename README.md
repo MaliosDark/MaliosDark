@@ -68,7 +68,7 @@ All of it from one home workstation and a single GPU.
 
 I release music and create AI-driven visual experiences under **Malios Dark**.
 
-- [Official Site](https://maliosdark.com: music, videos, AI worlds and the animated series
+- [Official Site](https://maliosdark.com)  music, videos, AI worlds and the animated series
 - [Spotify](https://open.spotify.com/artist/3pyejzcfWokW7LYE2xGUPH)
 - [YouTube](https://www.youtube.com/@MaliosDark)
 
