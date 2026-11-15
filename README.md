@@ -1,158 +1,93 @@
-<h2 align="left">Hi 👋! I’m Andryu Schittone, “Malios Dark”</h2>
-
-<p align="left">
-  Based in Cardiff, UK, I’m a self-taught developer and creative technologist. I build AI-driven tools, craft full-stack web applications, and produce electronic music and digital art., I oversee innovative AI projects, security software, and multimedia experiences that blend technology with imagination.
-</p>
-
-
-###
-
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=MaliosDark&show_icons=true&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=MaliosDark&theme=github_dark)
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MaliosDark&layout=compact&theme=github_dark)
-
-
-###
-
-<p align="left">
-  <strong>Technologies & Tools I work with:</strong>
-</p>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="AngularJS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="Sass" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" height="30" alt="Laravel" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" alt="Tailwind CSS" />
-  <img width="12" />
-
-
-  
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" height="30" alt="NestJS" />
-  <img width="12" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="30" alt="Flask" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="PHP" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" height="30" alt="Symfony" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="Go" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="Spring" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="C#" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt=".NET" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="Rust" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-</div>
-
-## 🌟 Achievements & Skills
+<!-- Perfil de GitHub de Malios Dark (15 nov 2026, v3: lo nuestro + lo de Grok, sin Featured y sin ciudad). Va con assets/darkstation.svg -->
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AI%20Researcher-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow" alt="AI Researcher" height="28" />
-  <img src="https://img.shields.io/badge/Open%20Source-GitHub-181717?style=for-the-badge&logo=github" alt="Open Source Contributor" height="28" />
-  <img src="https://img.shields.io/badge/Digital%20Artist-Suno-FFB400?style=for-the-badge&logo=suno&logoColor=white" alt="Digital Artist" height="28" />
 
-  <img src="https://img.shields.io/badge/Music%20Producer-Spotify-1DB954?style=for-the-badge&logo=spotify" alt="Music Producer" height="28" />
+<img src="assets/cabecera.jpg" width="100%" alt="Malios Dark" />
 
-  <img src="https://img.shields.io/badge/Chatbot%20Architect-WhatsApp-25D366?style=for-the-badge&logo=whatsapp" alt="Chatbot Architect" height="28" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E03A2F&center=true&vCenter=true&width=640&lines=Creative+technologist+%E2%80%A2+self-taught;AI+%2B+Wireless+Sensing+%2B+Security;WiFi+that+sees+people+in+3D;Electronic+music+%26+AI+visual+worlds;Building+things+that+feel+alive;One+GPU.+Zero+excuses." alt="Typing SVG" />
 
-  <img src="https://img.shields.io/badge/Text--to--Image-Genelia-9C27B0?style=for-the-badge&logo=stable_diffusion&logoColor=white" alt="Text-to-Image" height="28" />
-  <img src="https://img.shields.io/badge/Pwnagotchi-Plugin-CA4245?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Pwnagotchi Plugin" height="28" />
-  <img src="https://img.shields.io/badge/Flask-Backend-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask Backend" height="28" />
-  <img src="https://img.shields.io/badge/ClamAV-Scanner-4CAF50?style=for-the-badge&logo=clamav&logoColor=white" alt="ClamAV Scanner" height="28" />
-  <img src="https://img.shields.io/badge/Linux-Admin-333333?style=for-the-badge&logo=linux&logoColor=white" alt="Linux Admin" height="28" />
-  <img src="https://img.shields.io/badge/NGINX-Expert-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX Expert" height="28" />
-  <img src="https://img.shields.io/badge/Firewall-Management-FF3D00?style=for-the-badge&logo=iptables&logoColor=white" alt="Firewall Management" height="28" />
-  <img src="https://img.shields.io/badge/Node.js-API-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js API" height="28" />
-  <img src="https://img.shields.io/badge/AI–Inference–Ollama-00A99D?style=for-the-badge" alt="Ollama" height="28" />
-  <img src="https://img.shields.io/badge/Networking–MikroTik-FF6D00?style=for-the-badge&logo=mikrotik&logoColor=white" alt="MikroTik" height="28" />
-  <img src="https://img.shields.io/badge/Firewall–pfSense-004A7F?style=for-the-badge&logo=pfsense&logoColor=white" alt="pfSense" height="28" />
-  <img src="https://img.shields.io/badge/CWP–Panel-00A8E1?style=for-the-badge" alt="CWP Panel" height="28" />
-  <img src="https://img.shields.io/badge/Backend-Python-3776AB?style=for-the-badge&logo=python" alt="Python Engineer" height="28" />
-  <img src="https://img.shields.io/badge/Systems-Rust-000000?style=for-the-badge&logo=rust" alt="Rust Enthusiast" height="28" />
+<img src="assets/darkstation.svg" width="100%" alt="malios@darkstation booting" />
 
+[![maliosdark.com](https://img.shields.io/badge/Website-maliosdark.com-e03a2f?style=for-the-badge&logo=firefox&logoColor=white)](https://maliosdark.com)
+[![Spotify](https://img.shields.io/badge/Spotify-Malios_Dark-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/3pyejzcfWokW7LYE2xGUPH)
+[![YouTube](https://img.shields.io/badge/YouTube-MaliosDark-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MaliosDark)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-MaliosDark-ffcc4d?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/MaliosDark)
 
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Frontend" height="28" />
-  <img src="https://img.shields.io/badge/Frontend-TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" height="28" />
-  <img src="https://img.shields.io/badge/Markup-HTML5-E34F26?style=for-the-badge&logo=html5" alt="HTML5" height="28" />
-  <img src="https://img.shields.io/badge/Styling-CSS3-1572B6?style=for-the-badge&logo=css3" alt="CSS3" height="28" />
-
-  <img src="https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker" alt="Docker" height="28" />
-  <img src="https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes" alt="Kubernetes" height="28" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge&logo=amazonaws" alt="AWS" height="28" />
-  <img src="https://img.shields.io/badge/Cloud-GCP-4285F4?style=for-the-badge&logo=googlecloud" alt="GCP" height="28" />
-
-  <img src="https://img.shields.io/badge/DB-MongoDB-47A248?style=for-the-badge&logo=mongodb" alt="MongoDB" height="28" />
-  <img src="https://img.shields.io/badge/DB-PostgreSQL-316192?style=for-the-badge&logo=postgresql" alt="PostgreSQL" height="28" />
-  <img src="https://img.shields.io/badge/Cache-Redis-DC382D?style=for-the-badge&logo=redis" alt="Redis" height="28" />
-
-  <img src="https://img.shields.io/badge/API-GraphQL-E10098?style=for-the-badge&logo=graphql" alt="GraphQL" height="28" />
-  <img src="https://img.shields.io/badge/API-REST-269AB0?style=for-the-badge&logo=openapi" alt="REST" height="28" />
-  <img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions" alt="CI/CD" height="28" />
-  <img src="https://img.shields.io/badge/Observability-Prometheus-4169E1?style=for-the-badge&logo=prometheus" alt="Prometheus" height="28" />
-  <img src="https://img.shields.io/badge/Logging-Loki-000000?style=for-the-badge&logo=loki" alt="Loki" height="28" />
-  <img src="https://img.shields.io/badge/Data%20Science-Jupyter-F37626?style=for-the-badge&logo=jupyter" alt="Jupyter" height="28" />
-  <img src="https://img.shields.io/badge/VR/AR-Unity-000000?style=for-the-badge&logo=unity" alt="Unity" height="28" />
 </div>
 
 ---
 
-<p align="left">
-  <strong>Connect with me:</strong>
-</p>
-<div align="left">
-  <a href="https://x.com/aschittone"><img src="https://img.shields.io/badge/X-@aschittone-1DA1F2?style=for-the-badge&logo=twitter" height="35" alt="X" /></a>
-  <a href="https://facebook.com/anschittone"><img src="https://img.shields.io/badge/Facebook-anschittone-1877F2?style=for-the-badge&logo=facebook" height="35" alt="Facebook" /></a>
-  <a href="https://facebook.com/maliosdark"><img src="https://img.shields.io/badge/Facebook-MaliosDark-4267B2?style=for-the-badge&logo=facebook" height="35" alt="Facebook Artist" /></a>
-  <a href="https://www.youtube.com/@MaliosDark"><img src="https://img.shields.io/badge/YouTube-MaliosDark-FF0000?style=for-the-badge&logo=youtube" height="35" alt="YouTube" /></a>
-  <a href="https://www.instagram.com/maliosdark"><img src="https://img.shields.io/badge/Instagram-maliosdark-E4405F?style=for-the-badge&logo=instagram" height="35" alt="Instagram" /></a>
-  <a href="mailto:malios666@gmail.com"><img src="https://img.shields.io/badge/Gmail-malios666%40gmail.com-D14836?style=for-the-badge&logo=gmail" height="35" alt="Gmail" /></a>
-  <a href="https://uk.linkedin.com/in/anschittone"><img src="https://img.shields.io/badge/LinkedIn-anschittone-0077B5?style=for-the-badge&logo=linkedin" height="35" alt="LinkedIn" /></a>
+### 🌑 About
+
+I make things. If I want it and it doesn't exist yet, I build it.
+
+I live at the crossroads of **AI, wireless sensing, security and multimedia**: estimating 3D human pose using only WiFi signals, private communication protocols, LoRa mesh networks, firmware for boards nobody supports, tiny language models trained from scratch, and full-stack apps, while also producing electronic music and building AI visual worlds as **Malios Dark**.
+
+All of it from one home workstation and a single GPU.
+
+**Currently exploring**
+- 📡 Real-time spatial awareness through WiFi CSI + deep learning
+- 🔐 Decentralized & private communication protocols
+- 🧬 Low-level research (XNU / SPTM / reverse engineering)
+- 🧠 Small language models trained from zero
+- 🎬 Music × AI: music videos, an animated series and a fighting game with my own characters
+
+---
+
+### 🛠️ Tech & Domains
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,rust,c,cpp,go,js,ts,react,vue,nodejs,php,laravel,django,flask,docker,kubernetes,linux,nginx,arduino,raspberrypi,pytorch,tensorflow,postgres,mongodb,redis,git&perline=13" />
+
 </div>
 
-<br clear="both">
+| | |
+|---|---|
+| 🧠 **AI & Sensing** | PyTorch · TensorFlow · WiFi CSI · Computer Vision · Local LLMs · Text-to-Image · Video generation |
+| 📡 **Wireless & Security** | Rust · ESP32 · STM32 · LoRa · Pwnagotchi · MikroTik · pfSense · Firewalls · Reverse Engineering |
+| 🌐 **Systems & Full-Stack** | TypeScript · React · Node.js · Django · Laravel · Docker · Kubernetes · PostgreSQL · Redis |
+| 🎵 **Creative** | Electronic Music Production · Digital Art · AI Visual Worlds · Animation |
 
-<img src="https://raw.githubusercontent.com/MaliosDark/MaliosDark/output/snake.svg" alt="Snake animation" />
+---
+
+### 📊 Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=MaliosDark&show_icons=true&theme=github_dark&hide_border=true&title_color=e03a2f&icon_color=e03a2f" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=MaliosDark&layout=compact&theme=github_dark&hide_border=true&title_color=e03a2f" height="165" alt="Top languages" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=MaliosDark&theme=github_dark&hide_border=true&ring=e03a2f&fire=e03a2f&currStreakLabel=e03a2f" alt="GitHub streak" />
+
+</div>
+
+---
+
+### 🎵 Music & Worlds
+
+I release music and create AI-driven visual experiences under **Malios Dark**.
+
+- [Official Site](https://maliosdark.com: music, videos, AI worlds and the animated series
+- [Spotify](https://open.spotify.com/artist/3pyejzcfWokW7LYE2xGUPH)
+- [YouTube](https://www.youtube.com/@MaliosDark)
+
+---
+
+### 🔗 Connect
+
+<div align="center">
+
+[![X](https://img.shields.io/badge/X-@aschittone-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aschittone)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-anschittone-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://uk.linkedin.com/in/anschittone)
+[![Instagram](https://img.shields.io/badge/Instagram-maliosdark-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/maliosdark)
+[![Facebook](https://img.shields.io/badge/Facebook-MaliosDark-4267B2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/maliosdark)
+[![Email](https://img.shields.io/badge/Email-malios666%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:malios666@gmail.com)
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/MaliosDark/MaliosDark/output/snake.svg" alt="Snake eating my contributions" />
+
+<img src="assets/pie.jpg" width="100%" alt="" />
+
+</div>

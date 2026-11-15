@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <!-- 15 nov 2026: banner propio de Malios Dark para el perfil de GitHub. Radar de WiFi + terminal que arranca. Solo SVG+CSS, sin servicios externos. -->
+  <style>
+    .bg{fill:#07040a}
+    .grid{stroke:#2a0c10;stroke-width:1}
+    .ring{fill:none;stroke:#5a1218;stroke-width:1.2}
+    .sweep{transform-origin:150px 150px;animation:spin 4s linear infinite}
+    .blip{fill:#e03a2f;opacity:0;animation:ping 4s ease-out infinite}
+    .lab{font:600 11px 'Fira Code',monospace;fill:#ff6b5e;opacity:0;animation:ping 4s ease-out infinite}
+    .t{font:14px 'Fira Code','Courier New',monospace;fill:#e8dfcb;opacity:0}
+    .p{fill:#e03a2f}.ok{fill:#5fd38a}.dim{fill:#7d7486}
+    .l1{animation:show .1s .3s forwards}.l2{animation:show .1s 1.1s forwards}.l3{animation:show .1s 1.7s forwards}
+    .l4{animation:show .1s 2.3s forwards}.l5{animation:show .1s 2.9s forwards}.l6{animation:show .1s 3.5s forwards}
+    .l7{animation:show .1s 4.1s forwards}.l8{animation:show .1s 4.9s forwards}
+    .cur{fill:#e03a2f;animation:blink 1s steps(1) infinite}
+    .glow{filter:drop-shadow(0 0 6px #e03a2f)}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    @keyframes ping{0%{opacity:0}8%{opacity:1}60%{opacity:.25}100%{opacity:0}}
+    @keyframes show{to{opacity:1}}
+    @keyframes blink{50%{opacity:0}}
+  </style>
+  <rect class="bg" width="900" height="300" rx="14"/>
+  <rect width="898" height="298" x="1" y="1" rx="13" fill="none" stroke="#3a0c12"/>
+  <!-- radar -->
+  <g>
+    <path class="grid" d="M150 20V280M20 150H280"/>
+    <circle class="ring" cx="150" cy="150" r="125"/><circle class="ring" cx="150" cy="150" r="85"/><circle class="ring" cx="150" cy="150" r="45"/>
+    <g class="sweep">
+      <path d="M150 150 L150 25 A125 125 0 0 1 238 62 Z" fill="#e03a2f" opacity=".22"/>
+      <path d="M150 150 L150 25" stroke="#ff6b5e" stroke-width="2" class="glow"/>
+    </g>
+    <circle class="blip" cx="205" cy="70" r="5" style="animation-delay:.45s"/><text class="lab" x="214" y="66" style="animation-delay:.45s">AI</text>
+    <circle class="blip" cx="250" cy="170" r="5" style="animation-delay:1.3s"/><text class="lab" x="226" y="192" style="animation-delay:1.3s">LoRa</text>
+    <circle class="blip" cx="170" cy="250" r="5" style="animation-delay:2.1s"/><text class="lab" x="178" y="268" style="animation-delay:2.1s">ESP32</text>
+    <circle class="blip" cx="70" cy="215" r="5" style="animation-delay:2.6s"/><text class="lab" x="30" y="238" style="animation-delay:2.6s">RUST</text>
+    <circle class="blip" cx="58" cy="105" r="5" style="animation-delay:3.2s"/><text class="lab" x="24" y="96" style="animation-delay:3.2s">MUSIC</text>
+    <circle class="blip" cx="120" cy="58" r="5" style="animation-delay:3.7s"/><text class="lab" x="86" y="48" style="animation-delay:3.7s">ANIME</text>
+    <circle cx="150" cy="150" r="4" fill="#ff6b5e" class="glow"/>
+  </g>
+  <!-- terminal -->
+  <g transform="translate(320,46)">
+    <circle cx="0" cy="-16" r="5" fill="#e03a2f"/><circle cx="16" cy="-16" r="5" fill="#f5b942"/><circle cx="32" cy="-16" r="5" fill="#5fd38a"/>
+    <text class="t l1" y="14"><tspan class="p">malios@darkstation</tspan><tspan class="dim">:~$</tspan> ./wake --everything</text>
+    <text class="t l2" y="40"><tspan class="ok">[ ok ]</tspan> wifi csi ........ seeing people through walls</text>
+    <text class="t l3" y="64"><tspan class="ok">[ ok ]</tspan> models .......... tiny LMs trained from zero</text>
+    <text class="t l4" y="88"><tspan class="ok">[ ok ]</tspan> firmware ........ boards nobody supports</text>
+    <text class="t l5" y="112"><tspan class="ok">[ ok ]</tspan> security ........ antivirus in rust, pwnagotchi</text>
+    <text class="t l6" y="136"><tspan class="ok">[ ok ]</tspan> studio .......... music videos, anime, games</text>
+    <text class="t l7" y="160"><tspan class="ok">[ ok ]</tspan> sound ........... electronic music as Malios Dark</text>
+    <text class="t l8" y="196"><tspan class="p">malios@darkstation</tspan><tspan class="dim">:~$</tspan> one gpu. zero excuses.<tspan class="cur">█</tspan></text>
+  </g>
+</svg>
